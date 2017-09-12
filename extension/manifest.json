@@ -7,6 +7,6 @@
 
     "content_scripts": [{
         "matches": ["https://popitup.com/*", "https://shoptheroe.com/*"],
-        "js": ["main.js"]
+        "js": ["jquery-3.2.1.min.js", "main.js"]
     }]
 }
