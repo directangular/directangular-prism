@@ -6,7 +6,8 @@
     "version": "1.0",
 
     "content_scripts": [{
-        "matches": ["https://popitup.com/*", "https://shoptheroe.com/*"],
+        "matches": ["https://popitup.com/*", "https://shoptheroe.com/*",
+                   "https://beta.shoptheroe.com/*"],
         "js": ["jquery-3.2.1.min.js", "main.js"]
     }]
 }
