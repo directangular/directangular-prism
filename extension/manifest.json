@@ -3,7 +3,7 @@
 
     "name": "Directangular Prism",
     "description": "This extension augments various Directangular web sites with debug info, etc.",
-    "version": "1.0",
+    "version": "1.1",
 
     "content_scripts": [{
         "matches": ["https://popitup.com/*", "https://shoptheroe.com/*",
